@@ -1,7 +1,11 @@
 let count = document.getElementById("count")
+
 let increment = document.getElementById("increment")
+
 let decrement = document.getElementById("decrement")
+
 let reset = document.getElementById("reset")
+
 let number = 0
 
 function yangilash (){
